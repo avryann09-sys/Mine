@@ -1,0 +1,19 @@
+[
+  {
+    "name": "LunarAnime",
+    "pkg": "all.lunaranime",
+    "apk": "tachiyomi-all.lunaranime-v1.0.0.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.0.0",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "LunarAnime",
+        "id": "1234567890123456789",
+        "baseUrl": "https://example.com",
+        "lang": "all"
+      }
+    ]
+  }
+]
